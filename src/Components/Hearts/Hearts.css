@@ -1,0 +1,16 @@
+#appBackground{
+	height: 100vh;
+	background-color: pink;
+}
+
+
+#text{
+	background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	display: inline-block;
+	position: absolute;
+	height: 25px;
+	width: 25px;
+
+}
